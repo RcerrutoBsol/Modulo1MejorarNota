@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "57Xg2pD8uePMs/Pl0PFnSoGAO7xCoWhP4e6ButvTrCutkNuh+lawUfqMOkn/hP2pyKfhebKT0SMHQjxZc4DCAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rcerruto\\Downloads\\LoginNurPractica\\ServicioLog\\ServicioLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rcerruto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rcerruto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

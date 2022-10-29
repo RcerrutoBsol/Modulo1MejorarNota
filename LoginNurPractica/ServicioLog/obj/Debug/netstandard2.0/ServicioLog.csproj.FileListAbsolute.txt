@@ -1,0 +1,10 @@
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioLog\obj\Debug\netstandard2.0\ServicioLog.csproj.AssemblyReference.cache
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioLog\obj\Debug\netstandard2.0\ServicioLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioLog\obj\Debug\netstandard2.0\ServicioLog.AssemblyInfoInputs.cache
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioLog\obj\Debug\netstandard2.0\ServicioLog.AssemblyInfo.cs
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioLog\obj\Debug\netstandard2.0\ServicioLog.csproj.CoreCompileInputs.cache
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioLog\bin\Debug\netstandard2.0\ServicioLog.deps.json
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioLog\bin\Debug\netstandard2.0\ServicioLog.dll
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioLog\bin\Debug\netstandard2.0\ServicioLog.pdb
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioLog\obj\Debug\netstandard2.0\ServicioLog.dll
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioLog\obj\Debug\netstandard2.0\ServicioLog.pdb

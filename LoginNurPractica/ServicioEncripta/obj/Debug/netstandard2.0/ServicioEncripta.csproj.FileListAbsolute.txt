@@ -1,0 +1,10 @@
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioEncripta\obj\Debug\netstandard2.0\ServicioEncripta.csproj.AssemblyReference.cache
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioEncripta\obj\Debug\netstandard2.0\ServicioEncripta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioEncripta\obj\Debug\netstandard2.0\ServicioEncripta.AssemblyInfoInputs.cache
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioEncripta\obj\Debug\netstandard2.0\ServicioEncripta.AssemblyInfo.cs
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioEncripta\obj\Debug\netstandard2.0\ServicioEncripta.csproj.CoreCompileInputs.cache
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioEncripta\bin\Debug\netstandard2.0\ServicioEncripta.deps.json
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioEncripta\bin\Debug\netstandard2.0\ServicioEncripta.dll
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioEncripta\bin\Debug\netstandard2.0\ServicioEncripta.pdb
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioEncripta\obj\Debug\netstandard2.0\ServicioEncripta.dll
+C:\Users\rcerruto\Downloads\LoginNurPractica\ServicioEncripta\obj\Debug\netstandard2.0\ServicioEncripta.pdb
